@@ -1,4 +1,4 @@
-# Shizuku
+ShiZuku # Shizuku
 
 ## Background
 
