@@ -1,4 +1,4 @@
-ShiZuku # Shizuku
+POCO C71 # Shizuku
 
 ## Background
 
